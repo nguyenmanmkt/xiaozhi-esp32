@@ -7,7 +7,7 @@ idf.py fullclean
 idf.py set-target esp32s3
 idf.py menuconfig
 idf.py build
-idf.py flash or idf.py -p COM4 flash 
+idf.py flash hoặc idf.py -p COM4 flash 
 ```
 # Chỉnh độ nhạy mic (dễ nhiễu)
 ```html
